@@ -1,0 +1,15 @@
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\bin\Debug\net6.0\CompiladorAnalisador.exe
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\bin\Debug\net6.0\CompiladorAnalisador.deps.json
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\bin\Debug\net6.0\CompiladorAnalisador.runtimeconfig.json
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\bin\Debug\net6.0\CompiladorAnalisador.dll
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\bin\Debug\net6.0\CompiladorAnalisador.pdb
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.csproj.AssemblyReference.cache
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.AssemblyInfoInputs.cache
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.AssemblyInfo.cs
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.csproj.CoreCompileInputs.cache
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.dll
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\refint\CompiladorAnalisador.dll
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.pdb
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\CompiladorAnalisador.genruntimeconfig.cache
+C:\Projetos\Rider\CompiladorAnalisador\CompiladorAnalisador\obj\Debug\net6.0\ref\CompiladorAnalisador.dll

@@ -1,21 +1,19 @@
 using System.Text;
-using CompiladorAnalisador.Interfaces;
 using CompiladorAnalisador.Models;
 using CompiladorAnalisador.Util;
 
 namespace CompiladorAnalisador.Services
 {
-    public class LexicalAnalyzer : ILexicalAnalyzer
+    public class LexicalAnalyzer
     {
-        private readonly IFileService _fileService;
+        private readonly FileService _fileService;
         private StreamReader _reader;
         private int _currentState;
         private int _currentLine;
         private readonly List<Token> _tokens;
 
-        public LexicalAnalyzer(StreamReader reader)
+        public LexicalAnalyzer()
         {
-            _reader = reader;
             _fileService = new FileService();
             _tokens = new List<Token>();
             _currentLine = 1;

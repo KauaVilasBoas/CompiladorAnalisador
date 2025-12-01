@@ -1,8 +1,6 @@
-using CompiladorAnalisador.Interfaces;
-
 namespace CompiladorAnalisador.Services
 {
-    public class FileService : IFileService
+    public class FileService
     {
         public StreamReader OpenFile(string path)
         {
